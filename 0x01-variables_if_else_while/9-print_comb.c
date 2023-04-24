@@ -1,9 +1,8 @@
 #include <stdio.h>
+
 /**
  * Main - prints all combination of single digit without using printf/puts
- * and usins putchar 4x only.
- *
- * Description: 'This program prints all combination of single digit'
+ * and using putchar 4x only.
  *
  * Return: Always 0
  */
