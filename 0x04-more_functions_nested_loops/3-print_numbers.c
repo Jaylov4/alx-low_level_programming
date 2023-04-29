@@ -1,5 +1,3 @@
-3-print_numbers.c
-
 #include "main.h"
 
 /**
@@ -17,4 +15,3 @@ void print_numbers(void)
 	}
 	_putchar('\n');
 }
-
